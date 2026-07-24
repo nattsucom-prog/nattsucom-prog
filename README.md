@@ -16,3 +16,13 @@
 ## 🧪 検証・練習用
 - [test-site](https://github.com/nattsucom-prog/test-site)
 - [gemini-api-test](https://github.com/nattsucom-prog/gemini-api-test)
+  
+## 🎉 遊び心系Webアプリ
+
+- [myapp](https://github.com/nattsucom-prog/myapp) - 言い訳ジェネレーター(状況×トーンでランダム生成)
+
+## 🧪 検証・練習用
+
+- [test-site](https://github.com/nattsucom-prog/test-site) - NAS運用フロー(bare repo→GitHub併用)の動作検証
+- [gemini-api-test](https://github.com/nattsucom-prog/gemini-api-test) - Gemini API検証
+- [my-project](https://github.com/nattsucom-prog/my-project) - Claude Code運用フロー検証用
